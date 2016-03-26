@@ -79,7 +79,7 @@ After this sequence of instructions, we have four Nodes containing the Integers 
 
 The following diagram shows these variables and the objects they refer to:
 
-![alt tag](https://raw.githubusercontent.com/learn-co-curriculum/cs-implementing-a-linkedlist-lab/wip-master/linked_list_diagram1.png?token=ABy37cdeV93htosX2oR_IzQFjgfknxHJks5W2F5gwA%3D%3D)
+![alt tag](https://raw.githubusercontent.com/learn-co-students/cs-implementing-a-linkedlist-lab-codeU/master/linked_list_diagram1.png)
 
 ## Getting set up
 
